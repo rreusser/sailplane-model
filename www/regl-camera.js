@@ -55,7 +55,7 @@ function createCamera (regl, props_) {
       if (buttons & 1) {
         var dx = (x - prevX) / window.innerWidth
         var dy = (y - prevY) / window.innerHeight
-        var w = Math.max(cameraState.distance, 0.5)
+        var w = 0.5
 
         cameraState.dtheta += w * dx
         cameraState.dphi += w * dy

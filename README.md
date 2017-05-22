@@ -2,11 +2,12 @@
 
 <p align="center">
   <a alt="sailplane" href="http://rickyreusser.com/sailplane-model/">
-    <img src="model/sailplane.png" width="600">
+    <img src="model/sailplane.png" width="750">
   </a>
 </p>
 
 - Made using [wings3d](http://www.wings3d.com/)
+- 61 kb gzipped
 
 ## License
 

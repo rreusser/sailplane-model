@@ -1,7 +1,7 @@
 # sailplane-model
 
 <p align="center">
-  <a alt="sailplane" href="http://rickyreusser.com/sailplane-model/">
+  <a alt="sailplane" href="https://rreusser.github.io/sailplane-model/">
     <img src="model/sailplane.png" width="750">
   </a>
 </p>
